@@ -1,7 +1,7 @@
 #!bin/python
 #python program to display powers of 2 using anonymous functhion
 num=10
-for number in range(10)
+for number in range(10):
 	num2=2
 	power=num2**number
 	print(power)
